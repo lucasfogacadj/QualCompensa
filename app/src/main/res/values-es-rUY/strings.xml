@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Que Passa?</string>
+    <string name="Titulo">Maradona</string>
+    <string name="Garrafa">Tico</string>
+    <string name="hintGarrafa">noconoco</string>
+    <string name="Litrao">yo</string>
+    <string name="hintLitrão">catchanga</string>
+    <string name="lata">presupuesto</string>
+    <string name="hintLata">rivera</string>
+    <string name="latao">caraca</string>
+    <string name="hintlatao">papa</string>
+    <string name="botao">tica</string>
+    <string name="Calcular">ola que tal?</string>
+</resources>

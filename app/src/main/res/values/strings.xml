@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Qual Compensa?</string>
+    <string name="Titulo">Qual Compensa?</string>
+    <string name="Garrafa">Garrafa de 600ml</string>
+    <string name="hintGarrafa">Insira o preço da Garrafa</string>
+    <string name="Litrao">Litrão de 1L</string>
+    <string name="hintLitrão">Insira o preço do Litrão</string>
+    <string name="lata">Lata de 350ml</string>
+    <string name="hintLata">Insira o preço da lata</string>
+    <string name="latao">Latão de 473ml</string>
+    <string name="hintlatao">Insira o preço do Latão</string>
+    <string name="botao">Botao para calcular</string>
+    <string name="Calcular">Calcular</string>
+</resources>
