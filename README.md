@@ -10,3 +10,5 @@ Este aplicativo compara após informar o preço, qual comprar, garrafa, litrão,
 # Boas práticas de programação
 # Acessibilidade
 # Internacionalização
+
+Baixar APK: https://goo.gl/ZGFY2a
