@@ -11,4 +11,4 @@ Este aplicativo compara após informar o preço, qual comprar, garrafa, litrão,
 # Acessibilidade
 # Internacionalização
 
-Baixar APK: https://goo.gl/ZGFY2a
+Baixar APK: https://goo.gl/nbbfuX
